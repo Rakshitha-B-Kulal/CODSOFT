@@ -8,8 +8,6 @@
     background: linear-gradient(to top,rgba(0,0,0,0.5)10%,rgba(0,0,0,0.5)10%),url(img1.jpeg);
     background-position: center;
     background-size: cover; 
-    /* background-image: url(img.jpeg);
-    background-repeat: no-repeat; */
     height: 100vh;
 }
 
